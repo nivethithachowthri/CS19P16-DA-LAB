@@ -1,35 +1,35 @@
 [
     {
         "id": 1,
-        "name": "Nikhil",
+        "name": "John",
         "department": "Engineering",
         "age": 20,
         "salary": 70000
     },
     {
         "id": 2,
-        "name": "lathika",
+        "name": "Kate",
         "department": "Marketing",
         "age": 21,
         "salary": 55000
     },
     {
         "id": 3,
-        "name": "lakshmi",
+        "name": "Lily",
         "department": "Engineering",
         "age": 21,
         "salary": 60000
     },
     {
         "id": 4,
-        "name": "mukil",
+        "name": "david",
         "department": "Human Resources",
         "age": 21,
         "salary": 65000
     },
     {
         "id": 5,
-        "name": "gaint",
+        "name": "saravanan",
         "department": "Finance",
         "age": 21,
         "salary": 75000
